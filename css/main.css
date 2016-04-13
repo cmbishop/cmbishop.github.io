@@ -116,7 +116,9 @@ PAGE: About
   border-radius: 15%;
 }
 
-
+.portfolioPics {
+  padding: 20px;
+}
 
 /**************************************
 PAGE: CONTACT
