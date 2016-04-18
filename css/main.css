@@ -144,7 +144,19 @@ PAGE: CONTACT
   background-image: url('../images/mail.png');
 }
 
+/**************************************
+PAGE: PORTFOLIO
+**************************************/
 
+li {
+    list-style: none;
+    padding: 20px;
+}
+
+li img {
+  float: left;
+  margin: 0 15px 0 0;
+}
 
 /**************************************
 COLORS
