@@ -148,12 +148,12 @@ PAGE: CONTACT
 PAGE: PORTFOLIO
 **************************************/
 
-li {
-    list-style: none;
+.portfolioLinks ul li {
     padding: 20px;
+    list-style: none;
 }
 
-li img {
+.portfolioLinks img {
   float: left;
   margin: 0 15px 0 0;
 }
